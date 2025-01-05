@@ -1,0 +1,15 @@
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\bin\Debug\net8.0\CheckYear.exe
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\bin\Debug\net8.0\CheckYear.deps.json
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\bin\Debug\net8.0\CheckYear.runtimeconfig.json
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\bin\Debug\net8.0\CheckYear.dll
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\bin\Debug\net8.0\CheckYear.pdb
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\CheckYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\CheckYear.AssemblyInfoInputs.cache
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\CheckYear.AssemblyInfo.cs
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\CheckYear.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\CheckYear.sourcelink.json
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\CheckYear.dll
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\refint\CheckYear.dll
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\CheckYear.pdb
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\CheckYear.genruntimeconfig.cache
+C:\Users\Legion\Sets-03\PracticeSets03\CheckYear\obj\Debug\net8.0\ref\CheckYear.dll

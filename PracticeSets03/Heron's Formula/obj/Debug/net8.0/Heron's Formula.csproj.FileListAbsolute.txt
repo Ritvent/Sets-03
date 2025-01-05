@@ -1,0 +1,15 @@
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\bin\Debug\net8.0\Heron's Formula.exe
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\bin\Debug\net8.0\Heron's Formula.deps.json
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\bin\Debug\net8.0\Heron's Formula.runtimeconfig.json
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\bin\Debug\net8.0\Heron's Formula.dll
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\bin\Debug\net8.0\Heron's Formula.pdb
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\Heron's Formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\Heron's Formula.AssemblyInfoInputs.cache
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\Heron's Formula.AssemblyInfo.cs
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\Heron's Formula.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\Heron's Formula.sourcelink.json
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\Heron's Formula.dll
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\refint\Heron's Formula.dll
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\Heron's Formula.pdb
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\Heron's Formula.genruntimeconfig.cache
+C:\Users\Legion\Sets-03\PracticeSets03\Heron's Formula\obj\Debug\net8.0\ref\Heron's Formula.dll
